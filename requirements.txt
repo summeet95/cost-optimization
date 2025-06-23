@@ -1,0 +1,8 @@
+pandas
+numpy
+statsmodels
+tensorflow
+boto3
+python-terraform
+grafana-client
+scikit-learn
