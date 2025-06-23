@@ -46,14 +46,17 @@ ML-IaC-Cloud-Provisioning/
 ├── train_lstm.py          # LSTM model trainer
 ├── requirements.txt       # All Python dependencies
 └── README.md              # This file
+```
+🧠 Academic Context
+This project is part of a Master's dissertation on:
+“Cost-Optimized Infrastructure as Code: Dynamic Resource Allocation Using Machine Learning”
+University of West London, 2025
 
+📜 License
+This project is open-source and available under the MIT License.
 
-📊 Dataset Sources
-Google Cluster Usage Traces
-
-Azure VM Usage (Zenodo)
-
-Alibaba Cloud Workload Traces
-
-AWS Cost and Usage Reports
-
+👨‍🎓 Author
+Summeet Pokhrel
+Postgraduate Student, MSc Software Engineering
+University of West London
+GitHub: @summeet95
